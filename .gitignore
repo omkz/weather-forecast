@@ -22,5 +22,6 @@ private
 # Log files
 *.log
 
-#idea
+#idea 
 .idea
+
